@@ -1,16 +1,14 @@
-# day_3_tapsiriq
+# Day 11 task
 
-Day 3 duzgun implementasiya
+Day 11 üçün task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tapşırıqlar :
 
-A few resources to get you started if this is your first Flutter project:
+1. Araşdırma: Video-player yerləşdirin.
+2. Araşdırma: syncfusion_flutter_charts bu libi implement edin.Chart yerləşdirin.
+3. Çətin task: progress_border libi ni implement edin.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu reponu download etməzdən əvvəl mütləq özünüz cəhd edin 
+sonra burdakı düzgün cavablara baxın.
