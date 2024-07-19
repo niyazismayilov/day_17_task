@@ -1,6 +1,6 @@
-# Day 11 task
+# Day 17 task
 
-Day 11 üçün task.
+Day 17 üçün task.
 
 ## Getting Started
 
